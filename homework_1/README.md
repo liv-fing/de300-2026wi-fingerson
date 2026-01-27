@@ -13,7 +13,7 @@ Aircraft inventory analysis assignment covering cleaning and imputation of missi
 ## Expected Outputs
 
 Example output from Task 5:
-  Creating new feature 'SIZE from 'NUMBER_OF_SEATS' based on quartiles.
-  Q1: 50.0, Q2: 136.0, Q3: 169.0
+- Creating new feature 'SIZE from 'NUMBER_OF_SEATS' based on quartiles.
+- Q1: 50.0, Q2: 136.0, Q3: 169.0
 
 See DATA_ENG300_HW1_Aircraft-1.html for all expected outputs, plots, and responses to assignment questions. 
