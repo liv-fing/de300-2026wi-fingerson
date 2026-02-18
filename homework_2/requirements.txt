@@ -1,0 +1,8 @@
+boto3
+botocore
+pandas
+torch
+transformers
+requests
+numpy
+scikit-learn
