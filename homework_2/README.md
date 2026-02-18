@@ -37,12 +37,12 @@ python de300_hw2.py --tasknum 5 --bucketname fingerson-winter26
 ```
 
 The script supports the following input parameters (default values shown)
---tasknum 1
---bucketname fingerson-winter26
---task2_subset_fraction 0.3
---task2_embeddings_name hw2/movie_subset_embeddings_with_ids.pt
---task4_embeddings_name hw2/FULL_movie_subset_embeddings_with_ids.pt
---task5_profile_name hw2/livs_profile.csv
+- tasknum 1
+- bucketname fingerson-winter26
+- task2_subset_fraction 0.3
+- task2_embeddings_name hw2/movie_subset_embeddings_with_ids.pt
+- task4_embeddings_name hw2/FULL_movie_subset_embeddings_with_ids.pt
+- task5_profile_name hw2/livs_profile.csv
 
 For example:
 ```bash
